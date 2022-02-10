@@ -1,2 +1,1 @@
-# economy_ml_review
-A Machine Learning Review of Economy Applicable Techniques
+# Revisão de Técnica de _Machine Learning_ Aplicáveis no Contexto de Econômia
