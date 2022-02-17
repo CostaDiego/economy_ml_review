@@ -10,7 +10,7 @@ A revisão foi dividada em duas partes: A primeira compreende as **Técnicas Sup
 - Casos de uso; e,
 - Um exemplo de código com a implementação em notebook Jupyter;
 
-## Aprendizado Supevisionado
+## Aprendizado Supervisionado
 
 ### Modelos de Regressão
 
@@ -28,7 +28,7 @@ A revisão foi dividada em duas partes: A primeira compreende as **Técnicas Sup
 
 ### Redes Neurais
 
-## Aprendizado Não-Supevisionado
+## Aprendizado Não-Supervisionado
 
 ### _Principal Component Analisys_
 
