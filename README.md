@@ -14,9 +14,9 @@ A revisão foi dividada em duas partes: A primeira compreende as **Técnicas Sup
 
 ### Modelos de Regressão
 
-#### Regressão Linear Simples
+A [Regressão Linear](./modelos_regressao/) é um modelo de análise que pode ser usado quando se modela a relação linear entre uma variável de desfecho contínua e variáveis preditoras (uma ou mais) que podem ser contínuas ou categóricas.
 
-#### Regressão Linear Múltipla
+A principal diferença entre a Regressão Linear Múltipla e a Simples, é que na simples só usamos uma variável preditora, enquanto na múltipla usamos mais de uma variável preditora.
 
 ### _K-Nearest Neighbors_
 
