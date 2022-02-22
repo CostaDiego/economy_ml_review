@@ -1,10 +1,10 @@
 [knn]:./docs/knn.png "K-Nearest Neighbors"
 
-# K Nearest Neighbors
+# [K Nearest Neighbors](./k_nearest_neighbors.ipynb)
 
 ## Definição
 
-O algoritmo de [_K-Nearest Neighbors_ (KNN)](k_nearest_neighbors.ipynb) pode ser classificado com um tipo de algoritmo supervisiona de _machine learning_. É um algoritmo relativamente fácil de implementar na sua forma mais básica e, ainda sim, consegue realizar tarefas de classificação complexa.
+O algoritmo de [_K-Nearest Neighbors_ (KNN)](./k_nearest_neighbors.ipynb) pode ser classificado com um tipo de algoritmo supervisiona de _machine learning_. É um algoritmo relativamente fácil de implementar na sua forma mais básica e, ainda sim, consegue realizar tarefas de classificação complexa.
 
 É considerado um algoritmo "preguiçoso", já que nao tem uma fase especializado no treinamento. Basicamente, é um algoritmo de classificação baseado em vizinhança que utiliza a distância euclidiana para classificar um novo ponto.
 

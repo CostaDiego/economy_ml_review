@@ -1,10 +1,10 @@
-# Modelos de Regressão
+# [Modelos de Regressão](./regressao_linear_simples.ipynb)
 
 ## Definição
 
 A análise de regressão linear é usada para prever o valor de uma variável com base no valor de outra. A variável que deseja prever é chamada de variável dependente. A variável que é usada para prever o valor de outra variável é chamada de variável independente.
 
-Essa forma de análise estima os coeficientes da equação linear, envolvendo uma ([Regressão Linear Simples](regressao_linear_simples.ipynb)) ou mais variáveis ([Regressão Linear múltipla](regressao_linear_multipla.ipynb)) independentes que melhor preveem o valor da variável dependente. A regressão linear se ajusta a uma linha reta ou superficial que minimiza as discrepâncias entre os valores de saída previstos e reais.
+Essa forma de análise estima os coeficientes da equação linear, envolvendo uma ([Regressão Linear Simples](./regressao_linear_simples.ipynb)) ou mais variáveis ([Regressão Linear múltipla](./regressao_linear_multipla.ipynb)) independentes que melhor preveem o valor da variável dependente. A regressão linear se ajusta a uma linha reta ou superficial que minimiza as discrepâncias entre os valores de saída previstos e reais.
 
 ## Problemas indicados
 
