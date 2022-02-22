@@ -12,13 +12,15 @@ A revisão foi dividada em duas partes: A primeira compreende as **Técnicas Sup
 
 ## Aprendizado Supervisionado
 
-### Modelos de Regressão
+### [Modelos de Regressão](./modelos_regressao/)
 
 A [Regressão Linear](./modelos_regressao/) é um modelo de análise que pode ser usado quando se modela a relação linear entre uma variável de desfecho contínua e variáveis preditoras (uma ou mais) que podem ser contínuas ou categóricas.
 
 A principal diferença entre a Regressão Linear Múltipla e a Simples, é que na simples só usamos uma variável preditora, enquanto na múltipla usamos mais de uma variável preditora.
 
-### _K-Nearest Neighbors_
+### [_K-Nearest Neighbors_](./k_nearest_neighbors/)
+
+O [_K-Nearest Neighbors_ (KNN)](./k_nearest_neighbors/) é um algoritmo de classificação baseado em vizinhança que utiliza a distância euclidiana para classificar um novo ponto. É um modelo de análise que pode ser usado quando se deseja estimar a distância entre um conjunto de pontos e um ponto de referência.
 
 ### _Naives Bayes Classifiers_
 
