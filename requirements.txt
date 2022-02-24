@@ -4,3 +4,5 @@ sklearn
 pandas
 keras
 tensorflow
+pydotplus
+IPython

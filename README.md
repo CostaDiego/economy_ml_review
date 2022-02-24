@@ -26,7 +26,9 @@ O [_K-Nearest Neighbors_](./k_nearest_neighbors/) (KNN) é um algoritmo de class
 
 O algoritmo de classificação [*Naive Bayes*](./naives_bayes_classifiers/) é baseado no Teorema de Bayes. É um dos mais simples modelos de aprendizado supervisionado, porém é rápido, acurado e confiável. Em grandes datasets, a técnica tem alta acurácia e velocidade de processamento.
 
-### Ávores de Decisão e _Ensembles_ de Árvores de Decisão
+### [Árvores de Decisão](./arvore_decisao/)
+
+As [Árvores de Decisão](./arvore_decisao/) são uma estrutura parecido com fluxogramas,que performar a categorização de dados com base em regras de decisão. Essas regras são definidas com base nas características dos dados de treinamento.
 
 ### [_Support Vector Machines_](./support_vector_machines/)
 
