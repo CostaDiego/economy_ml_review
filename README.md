@@ -22,7 +22,9 @@ A principal diferença entre a Regressão Linear Múltipla e a Simples, é que n
 
 O [_K-Nearest Neighbors_](./k_nearest_neighbors/) (KNN) é um algoritmo de classificação baseado em vizinhança que utiliza a distância euclidiana para classificar um novo ponto. É um modelo de análise que pode ser usado quando se deseja estimar a distância entre um conjunto de pontos e um ponto de referência.
 
-### _Naives Bayes Classifiers_
+### [_Naives Bayes Classifiers_](./naives_bayes_classifiers/)
+
+O algoritmo de classificação [*Naive Bayes*](./naives_bayes_classifiers/) é baseado no Teorema de Bayes. É um dos mais simples modelos de aprendizado supervisionado, porém é rápido, acurado e confiável. Em grandes datasets, a técnica tem alta acurácia e velocidade de processamento.
 
 ### Ávores de Decisão e _Ensembles_ de Árvores de Decisão
 
