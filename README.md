@@ -45,6 +45,7 @@ O algoritmo de classificação [*Naive Bayes*](./naives_bayes_classifiers/) é b
 ### [_K-Means Clustering_](./K-MeansClustering)
 [_K-means_](./K-MeansClustering) é uma técnica de aprendizado não supervisionado que permite o agrupamento de dados em clusters. O algoritmo separa os dados em um número K de clusters.
 
-### _Agglomerative Clustering_
+### [_Agglomerative Clustering_](./AgglomerativeClustering)
+[_Agglomerative Clustering](./AgglomerativeClustering) é uma técnica de aprendizado não supervisionado que permite o agrupamento de dados em clusters. O algoritmo separa os dados em um número K de clusters. Com a particularidade que a priori todos os dados são considerados como representantes de um cluster único e a partir disso os clusters são funfidos até alcançar a quantidade K de cluster.
 
 ### _DBSCAN_
