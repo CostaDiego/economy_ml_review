@@ -20,13 +20,15 @@ A principal diferença entre a Regressão Linear Múltipla e a Simples, é que n
 
 ### [_K-Nearest Neighbors_](./k_nearest_neighbors/)
 
-O [_K-Nearest Neighbors_ (KNN)](./k_nearest_neighbors/) é um algoritmo de classificação baseado em vizinhança que utiliza a distância euclidiana para classificar um novo ponto. É um modelo de análise que pode ser usado quando se deseja estimar a distância entre um conjunto de pontos e um ponto de referência.
+O [_K-Nearest Neighbors_](./k_nearest_neighbors/) (KNN) é um algoritmo de classificação baseado em vizinhança que utiliza a distância euclidiana para classificar um novo ponto. É um modelo de análise que pode ser usado quando se deseja estimar a distância entre um conjunto de pontos e um ponto de referência.
 
 ### _Naives Bayes Classifiers_
 
 ### Ávores de Decisão e _Ensembles_ de Árvores de Decisão
 
-### _Support Vector Machines_
+### [_Support Vector Machines_](./support_vector_machines/)
+
+[_Support Vector Machines_](./support_vector_machines/) (SVM) é um algoritmo que oferece alta acurácia para classificação de dados quando comparado com outros métodos, tais quais regressão logística, árvores de decisão e etc. Normalmente é considerado um algoritmo de classificação, mas pode ser usando tanto para classificação quanto para problemas regressão.
 
 ### Redes Neurais
 
