@@ -37,6 +37,7 @@ O algoritmo de classificação [*Naive Bayes*](./naives_bayes_classifiers/) é b
 ## Aprendizado Não-Supervisionado
 
 ### _Principal Component Analisys_
+[_Principal Component Analysis_](./PCA.ipynb) (PCA) é um algoritmo que permite a reduação da dimensionaliade de uma amostra de dados, de modo a condensar as variáveis com a menor perca possível de informação.
 
 ### _AutoEncoder_
 
