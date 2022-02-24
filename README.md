@@ -42,7 +42,7 @@ O algoritmo de classificação [*Naive Bayes*](./naives_bayes_classifiers/) é b
 ### [_AutoEncoder_](./AutoEncoder)
 [_Autoencoder_](./AutoEncoder) é uma técnica de aprendizado não supervisionado que permite com que dados sejam compactados e descompactados atráves de redes neurais.
 
-### [_K-Means Clustering_](./K-MeansClustering)
+### [_K-Means Clustering_](./K-Means Clustering)
 [_K-means_](./K-MeansClustering) é uma técnica de aprendizado não supervisionado que permite o agrupamento de dados em clusters. O algoritmo separa os dados em um número K de clusters.
 
 ### _Agglomerative Clustering_
