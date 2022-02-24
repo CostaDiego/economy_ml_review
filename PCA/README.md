@@ -3,7 +3,7 @@
 
 ## Definição
 
-[_Principal Component Analysis_](./PCA.ipynb) (PCA) é um algoritmo que permite a reduação da dimensionaliade de uma amostra de dados, de modo a condensar as variáveis com a menor perca possível de informação.
+[_Principal Component Analysis_](./PCA.ipynb) (PCA) é um algoritmo que permite a redução da dimensionaliade de uma amostra de dados, de modo a condensar as variáveis com a menor perca possível de informação.
 
 ![PCA]
 
