@@ -1,4 +1,4 @@
-[K-means]: ./docs/kmeans.png "Autoencoder Example"
+[K-means]: ./docs/kmeans.png "K-means Example"
 # [_K-means_](./K-MeansClustering.ipynb)
 
 ## Definição
