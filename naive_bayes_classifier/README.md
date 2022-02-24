@@ -1,3 +1,4 @@
+[prob_bayes]:./docs/prob_bayes.png "Teorema de Bayes"
 # [Naive Bayes Classifier](./multinomial_naive_bayes.ipynb)
 
 ## Definição
@@ -10,19 +11,19 @@ O Teorema de Bayes é um modelo de probabilidade condicional, que é utilizado p
 
 <br />
 
-$P(h|D) = \frac{P(D|h)P(h)}{P(D)}$
+![alt text][prob_bayes]
 
 <br />
 
 Onde:
 
-- $P(h)$: é a probabilidade da hipótese $h$ ser verdadeira (independente dos dados). É conhecido como probabilidade anterior de $h$;
+- P(h): é a probabilidade da hipótese h ser verdadeira (independente dos dados). É conhecido como probabilidade anterior de h;
 
-- $P(D)$: é a probabilidade do dados (independentemente da hipótese). É conhecido como probabilidade anterior dos dados;
+- P(D): é a probabilidade do dados (independentemente da hipótese). É conhecido como probabilidade anterior dos dados;
 
-- $P(h|D)$: É a probalidade da hipótese $h$ ser verdadeira, com base nos dados. É conhecido como probabilidade posterior de $h$;
+- P(h|D): É a probalidade da hipótese h ser verdadeira, com base nos dados. É conhecido como probabilidade posterior de h;
 
-- $P(D|h)$: é a probabilidade de $D$ ser verdadeiro, quando a hipótese $h$ é verdadeira. É conhecido com probabilidade posterior de $D$;
+- P(D|h): é a probabilidade de D ser verdadeiro, quando a hipótese h é verdadeira. É conhecido com probabilidade posterior de D;
 
 ## Vantagens:
 
