@@ -54,3 +54,45 @@ As [redes neurais artificiais](./rede_neural_artificial/) são algoritmos bio-in
 
 ### [_DBSCAN_](./DBSCAN)
 [_DBSCAN_](./DBSCAN) é uma técnica de aprendizado não supervisionado que permite o agrupamento de dados em clusters. É um algoritmo baseado na densidade dos pontos do conjunto de dados, o que permite uma análise mais próxima a que seria realizada po rum ser humano.
+
+## Requisitos e Bibliotecas
+
+### Requisitos
+
+Para a execução destes algoritmos foram necessárias as seguintes dependências:
+
+- [Python 3.10.0](https://www.python.org/)
+
+- [Jupyter](https://jupyter.org/)
+
+- [Pypi](https://pypi.org/project/pip/)
+
+- [Anaconda](https://www.anaconda.com/products/individual) (Opcional)
+
+### Bibliotecas
+
+Durante a execução destes algoritmos foram necessárias as seguintes bibliotecas:
+
+- Numpy
+
+- Matplotlib
+
+- Sci Kit Learn
+
+- Pandas
+
+- Keras
+
+- Tensorflow
+
+- PyDotPlus
+
+- IPython
+
+Para instalar estas bibliotecas basta utilizar o comando:
+
+```bash
+pip install -r requirements.txt
+```
+
+> Nota: No caso do treinamento dos modelos de [Redes Neurais](./rede_neural_artificial/) é necessário instalar adicionalmente a biblioteca [Tensorflow](https://www.tensorflow.org/install/gpu) com suporte à GPUs.
