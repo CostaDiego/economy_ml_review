@@ -34,7 +34,9 @@ As [Árvores de Decisão](./arvore_decisao/) são uma estrutura parecido com flu
 
 [_Support Vector Machines_](./support_vector_machines/) (SVM) é um algoritmo que oferece alta acurácia para classificação de dados quando comparado com outros métodos, tais quais regressão logística, árvores de decisão e etc. Normalmente é considerado um algoritmo de classificação, mas pode ser usando tanto para classificação quanto para problemas regressão.
 
-### Redes Neurais
+### [Redes Neurais](./rede_neural_artificial/)
+
+As [redes neurais artificiais](./rede_neural_artificial/) são algoritmos bio-inspirados nas conexões entre os neuronios naturais do cerebro. Esta tecnologia apesar de parecer simples, tem se mostrado extremamente eficiente na resolução de diversos problemas atuais (classificação, regressão, detecção, etc). Seu emprego em conjunto com outras técnicas, como filtros convolucionais entre outras, atingiu o nível mais avançado de desempenho em diversos tarefas, conhecido como Estado da Arte.
 
 ## Aprendizado Não-Supervisionado
 
